@@ -1,6 +1,6 @@
 # <img alt="Atom icon" src="public/icons/favicon.svg" height="24"/> ShubhayanGhosh<span></span>.com &middot; [![CI](https://github.com/Shubhayang6/Shubhayan_Ghosh_portfolio/actions/workflows/ci.yml/badge.svg)](https://github.com/Shubhayang6/Shubhayan_Ghosh_portfolio/actions/workflows/ci.yml) [![Netlify status](https://api.netlify.com/api/v1/badges/332bbd91-59b7-4091-8781-6f41330399b4/deploy-status)]
 
-<img alt="Desktop preview" src="images/desktop.png" float="left" height="370"/> <img alt="Mobile preview" src="images/mobile.png" align="right" height="370"/>
+<img alt="Desktop preview" src="images/desktop_dark_theme.png" float="left" height="370"/> <img alt="Mobile preview" src="images/mobile_dark_theme.png" align="right" height="370"/>
 
 This website is designed to be simple and accessible. Dynamic particles create an interactive experience for visitors. The site offers two themes via a toggle: a dark theme (default) and a light theme. The selected theme persists between tabs, windows, and page reloads.
 
