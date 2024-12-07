@@ -50,10 +50,6 @@ Text and icons are designed with a color contrast ratio greater than 7:1, satisf
 | Silver | ![Silver](https://via.placeholder.com/16/cccccc?text=+) | `cccccc` |
 | White  | ![White](https://via.placeholder.com/16/ffffff?text=+)  | `ffffff` |
 
-## Previous version
 
-For a look at the first version of my website, and to see how it has evolved, visit [v1](https://github.com/Shubhayang6/Shubhayan_Ghosh_portfolio).
-
----
 
 If you find this project useful, consider giving it a <img alt="Star" src="https://git.io/JUn8T" height="14">! For questions or feedback, feel free to open an issue and I'll respond as soon as possible.
