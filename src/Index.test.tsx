@@ -86,7 +86,7 @@ describe('application tests', () => {
   it('should render creator', () => {
     const element = screen.getByTestId('creator');
 
-    checkContent(element, /^Shubhayan Ghosh$/, 'https://www.adamalston.com/');
+    checkContent(element, /^Shubhayan Ghosh$/, ' ');
   });
 
   it('should render link to source code', () => {
@@ -114,7 +114,7 @@ describe('application tests', () => {
       parent,
       child,
       /^LinkedIn$/,
-      'https://www.linkedin.com/in/adam-alston/',
+      'https://linkedin.com/in/shubhayan-ghosh-b496b11b4/',
     );
   });
 

@@ -1,4 +1,4 @@
-# <img alt="Atom icon" src="public/icons/favicon.svg" height="24"/> adamalston<span></span>.com &middot; [![CI](https://github.com/Shubhayang6/Shubhayan_Ghosh_portfolio/actions/workflows/ci.yml/badge.svg)](https://github.com/Shubhayang6/Shubhayan_Ghosh_portfolio/actions/workflows/ci.yml) [![Netlify status](https://api.netlify.com/api/v1/badges/332bbd91-59b7-4091-8781-6f41330399b4/deploy-status)](https://app.netlify.com/sites/adamalston/deploys)
+# <img alt="Atom icon" src="public/icons/favicon.svg" height="24"/> ShubhayanGhosh<span></span>.com &middot; [![CI](https://github.com/Shubhayang6/Shubhayan_Ghosh_portfolio/actions/workflows/ci.yml/badge.svg)](https://github.com/Shubhayang6/Shubhayan_Ghosh_portfolio/actions/workflows/ci.yml) [![Netlify status](https://api.netlify.com/api/v1/badges/332bbd91-59b7-4091-8781-6f41330399b4/deploy-status)]
 
 <img alt="Desktop preview" src="images/desktop.png" float="left" height="370"/> <img alt="Mobile preview" src="images/mobile.png" align="right" height="370"/>
 
